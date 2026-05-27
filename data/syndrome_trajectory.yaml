@@ -1,0 +1,8 @@
+# 证候转归定义
+transitions:
+  - from: 气虚
+    to: [气虚血瘀, 气阴两虚]
+    probability: 0.3
+  - from: 阴虚
+    to: [阴虚火旺, 气阴两虚]
+    probability: 0.25
